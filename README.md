@@ -6,3 +6,5 @@ This code was written to demonstrate the construction of a simple mvc framework,
 The Model View Controller architecture is by far the most used on the web and there are many frameworks that implement it.
 
 That said, let's look at the basics of how this architecture works.
+
+![model view controller architecture](https://github.com/israelzoch/mvc_php_basic_code/blob/master/mvc_image.jpeg)
