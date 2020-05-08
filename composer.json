@@ -1,0 +1,17 @@
+{
+    "name": "Israel Zoch dos Santos Cavalheiro",
+    "description": "A MVC PHP example without frameworks and external sources",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Israel Zoch dos Santso Cavalheiro",
+            "email": "zoch.codes@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "source"
+        }
+    },
+    "require": {}
+}
